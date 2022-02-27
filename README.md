@@ -2,6 +2,7 @@
 Repository containing code for the estimation of the most appropriate CRS for a given coordinate and locality
 
 Run python main.py [args], with:
+
     -x: X-coordinate of the position (required)
     -y: Y-coordinate of the position (required)
     -q: Locality of the position  (required)
